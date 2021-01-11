@@ -1,9 +1,9 @@
 # UAS Bahasa Pemrograman
 
 
-- Nama  : Yahya Fadilah
-- NIM   : 311710276
-- Kelas : TI.20.B2
+**- Nama    : Yahya Fadilah**
+**- NIM     : 311710276**
+**- Kelas   : TI.20.B2**
 
 
 **Penjelasan:**
