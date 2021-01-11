@@ -103,6 +103,7 @@ while True:
 
 **Flowchart:**
 
+[flowchart.pdf](https://github.com/Yahyafadilah/UAS-Pemrograman/files/5796064/flowchart.pdf)
 
 
 **Output:**
