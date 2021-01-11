@@ -107,24 +107,24 @@ while True:
 
 Tambah data
 
-![gambar2](assets/gambar2.PNG)
+![tambah data](https://user-images.githubusercontent.com/48075659/104183006-e36c4e00-5443-11eb-9fc8-bc90a5962ee4.png)
 
 
 Ubah data
 
-![gambar3](assets/gambar3.PNG)
+![ubah data](https://user-images.githubusercontent.com/48075659/104183059-f5e68780-5443-11eb-9773-77b20030befa.png)
 
 
 Lihat data
 
-![gambar4](assets/gambar4.PNG)
+![lihat data](https://user-images.githubusercontent.com/48075659/104183133-11ea2900-5444-11eb-9253-345f26ff2b7a.png)
 
 
 Cari data
 
-![gambar5](assets/gambar5.PNG)
+![cari data](https://user-images.githubusercontent.com/48075659/104183123-0e56a200-5444-11eb-89d8-c64c4ea5adc0.png)
 
 
 Hapus data
 
-![gambar6](assets/gambar6.PNG)
+![hapus data](https://user-images.githubusercontent.com/48075659/104183128-10b8fc00-5444-11eb-90dd-f54ba18f1cdf.png)
